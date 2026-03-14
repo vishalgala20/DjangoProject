@@ -1,0 +1,6 @@
+Django==4.2.0
+djangorestframework==3.14.0
+drf-yasg==1.21.6
+sqlparse==0.4.4
+pytz==2024.1
+coreapi==2.3.3
